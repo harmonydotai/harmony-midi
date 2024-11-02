@@ -1,3 +1,11 @@
+# Harmony
+- A pump.fun fair launch
+- Fully decentralized governance
+- Prompt-to-music AI Musician
+- Music distribution via Spotify, Youtube Music, Apple Music, Napster and Deezer
+- 95/5 royalty share between token holders and operator
+
+  
 # Midi-Model
 
 ## Midi event transformer for music generation
