@@ -1,7 +1,7 @@
 # Harmony
 - A pump.fun fair launch
 - Fully decentralized governance
-- Prompt-to-music AI Musician
+- Prompt-to-music AI Artist
 - Music distribution via Spotify, Youtube Music, Apple Music, Napster and Deezer
 - 95/5 royalty share between token holders and operator
 
